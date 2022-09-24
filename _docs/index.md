@@ -1,10 +1,23 @@
 ---
-title: Welcome
+title: Preparación del temario
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-## Getting started
+Dirigido a todas las especialidades
+Sesión online de 2 horas + sesión individual de 60 min. en el momento que quieras
+
+## Qué vas a obtener
+
+Estrategias y recomendaciones para preparar los temas y ahorrar tiempo en 2  sesiones  online de 60 min
+Materiales para trabajar en la elaboración del temario: modelos de introducciones, conclusiones…
+Sesión individualizada de 60 min para revisar los temas que hayas preparado o  los materiales en los que hayas trabajado
+Seguimiento por email
+
+## Qué no vas a obtener
+
+Temario escrito por mí para tu especialidad
+
 
 [GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
 Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
